@@ -1,0 +1,11 @@
+.main_image {
+  height: 400px;
+  width: 370px;
+}
+.main_text {
+  width: 700px;
+}
+.not_main_text {
+  font-size: 18px;
+  font-style: italic;
+}
